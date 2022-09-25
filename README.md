@@ -1,2 +1,2 @@
-# merge-conflits
-About merge and conflits 
+LOCAL
+About merge and conflits
