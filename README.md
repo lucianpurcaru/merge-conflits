@@ -1,2 +1,2 @@
-# merge-conflits
+REMOTE
 About merge and conflits 
